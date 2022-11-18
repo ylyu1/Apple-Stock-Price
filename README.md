@@ -4,7 +4,7 @@
 We want to check the trends in Apple stock in the past year. 
 
 ## Data source
-By using the function googlefinance() in google sheets, we can load data of Apple stock. 
+By using the function `googlefinance()` in google sheets, we can load data of Apple stock. 
 
 <img width="1240" alt="applestock" src="https://user-images.githubusercontent.com/103335114/202590616-0c9b0154-5a5f-4ac5-9030-6eff0af63def.png">
 
