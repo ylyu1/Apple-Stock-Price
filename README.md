@@ -11,4 +11,5 @@ By using the function googlefinance() in google sheets, we can load data of Appl
 ## Data visualizations in Tableau
 We then connect google sheets data to Tableau and created multiple charts for the dashboard. By using the 'Date' filter, 
 we can check the stock price of Apple during a period of time from 2021 until current date.
+
 ![applestockdashboard](https://user-images.githubusercontent.com/103335114/202591434-16f29a9d-fff3-4f56-9339-33c983e18b0c.png)
